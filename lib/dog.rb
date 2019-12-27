@@ -1,5 +1,9 @@
 require 'pry'
 class Dog
+  def name=
+    
+  end
+
   def bark
     puts "Woof!"
   end

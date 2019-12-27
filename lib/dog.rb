@@ -1,6 +1,7 @@
 require 'pry'
 class Dog
-  def name=
+  def name=(the_dog_name)
+    dog_name = the_dog_name
 
   end
 

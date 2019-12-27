@@ -19,5 +19,9 @@ end# Your code goes here!
 
 fido = Dog.new
 fergi = Dog.new
+peter = Dog.new
+ed = Dog.new
+bill = Dog.new
 
 binding.pry
+

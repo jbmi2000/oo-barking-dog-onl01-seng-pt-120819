@@ -3,9 +3,11 @@ class Dog
   def bark
     puts "Woof!"
   end
-binding.pry
+
 #  def name
 fido = Dog.new
+fergi = Dog.new
+binding.pry
 
 
 

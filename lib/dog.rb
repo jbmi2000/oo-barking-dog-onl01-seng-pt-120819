@@ -1,11 +1,12 @@
+require 'pry'
 class Dog
   def bark
     puts "Woof!"
   end
-
+binding.pry
 #  def name
 fido = Dog.new
-fido.bark
+
 
 
 

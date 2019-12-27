@@ -11,8 +11,10 @@ class Dog
   end
 
 #  def name
+
+end# Your code goes here!
+
 fido = Dog.new
 fergi = Dog.new
-end# Your code goes here!
 
 binding.pry

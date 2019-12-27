@@ -4,6 +4,11 @@ class Dog
 
   end
 
+  def name
+
+    
+  end
+
   def bark
     puts "Woof!"
   end

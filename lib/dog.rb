@@ -11,8 +11,8 @@ class Dog
   end
 
 #  def name
-fido = Dog.new
-fergi = Dog.new
+#fido = Dog.new
+#fergi = Dog.new
 #binding.pry
 
 

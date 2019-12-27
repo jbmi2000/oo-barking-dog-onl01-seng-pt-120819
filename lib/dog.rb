@@ -24,4 +24,3 @@ ed = Dog.new
 bill = Dog.new
 
 binding.pry
-
